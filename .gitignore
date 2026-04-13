@@ -1,0 +1,15 @@
+*.o
+*.out
+*.exe
+3dai_engine
+obj/
+output/*.csv
+output/*.png
+output/*.obj
+output/*.json
+output/*.blend
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
