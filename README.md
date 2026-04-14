@@ -6,7 +6,6 @@
 [![C++17](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 [![OpenMP](https://img.shields.io/badge/OpenMP-✓-orange.svg)](https://www.openmp.org/)
 [![R](https://img.shields.io/badge/R-rgl-276DC3.svg)](https://cran.r-project.org/)
-[![Blender](https://img.shields.io/badge/Blender-✓-orange.svg)](https://www.blender.org/)
 
 ---
 
